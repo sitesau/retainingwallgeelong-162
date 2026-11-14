@@ -1,0 +1,22 @@
+{
+  "wheel_id": 897,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-162",
+  "project": "retaining-wall-builders-geelong-what-to-expect-773787a35732ff58",
+  "parent_t1_ref": "retainingwallgeelong-017",
+  "node_role": "buffer",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall builders geelong what to expect",
+  "intended_url": "http://retaining-wall-builders-geelong-what-to-expect-773787a35732ff58.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "3cb084dfbb613701",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-builders-geelong-retainingwallgeelong-017/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
